@@ -16,7 +16,7 @@
  
 # Installation
  
-Requirementで列挙したライブラリなどのインストール方法を説明する
+Pygameのインストール方法
  
 ```bash
 pip install pygame
