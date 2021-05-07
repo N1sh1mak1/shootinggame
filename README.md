@@ -6,7 +6,7 @@
 # DEMO
  
 ![image (12)](https://user-images.githubusercontent.com/79437655/117433903-fbbe2680-af66-11eb-9518-ac1816911d9b.png)
-
+![image](https://user-images.githubusercontent.com/79437655/117434059-290ad480-af67-11eb-9cc0-14844a367fed.png)
  
 # Requirement
  
