@@ -23,6 +23,14 @@ pip install pygame
 ```
  
 # Usage
+ 1:"shootinggame"フォルダをダウンロードして任意のところに置いてください．  
+ 2:Visual Studio Code などで"shootinggame"フォルダを開き，shootinggame.pyを実行してください．  
+ 3:画面にPRESS SPECE と表示されスペースキーを押すとゲーム開始です  
+ 
+ 操作方法  
+ 自機を十字キー（←↑↓→）で移動させ，スペースキーで弾を発射します．  
+ 一定スコアごとに弾道が強化され，スコアが500に到達するとゲームクリアです．
+ 
  
 # License
  
