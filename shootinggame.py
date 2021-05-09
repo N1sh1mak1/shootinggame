@@ -14,7 +14,6 @@ img_enemy = [
 ]
 
 img_gauge = pygame.image.load("gage.png")
-img_title = pygame.image.load("t.jpg")#タイトル画像
 WHITHE =(255,255,255)
 idx =0 
 bg_y=0
